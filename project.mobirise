@@ -53,7 +53,7 @@
     "imageResize": true,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sans0.svg",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
