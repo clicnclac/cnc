@@ -57,13 +57,8 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "screenshot": "screenshot.png",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "companies.html": {
