@@ -53,7 +53,7 @@
     "imageResize": true,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": "@PROJECT_PATH@/assets/images/just-logo-128x78.png",
+    "favicon": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
