@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clic'nclac",
-    "currentPage": "companies.html",
+    "currentPage": "about-us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2977,7 +2977,7 @@
     "about-us.html": {
       "settings": {
         "meta_descr": "How we decided to offer the first affordable platform for european students...",
-        "title": "About US",
+        "title": "About Us",
         "order": 2
       },
       "components": [
