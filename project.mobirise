@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clic'nclac",
-    "currentPage": "en.html",
+    "currentPage": "fr.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -963,7 +963,7 @@
     "fr.html": {
       "settings": {
         "title": "clic'n clac",
-        "meta_descr": "Le futur de la recherche de stage à l'étranger est là ,trouver ton stage pour seulement 19,99€......",
+        "meta_descr": "Le futur de la recherche de stage à l'étranger est là, trouver ton stage pour seulement 19,99€......",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
