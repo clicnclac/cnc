@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "clic'nclac",
-    "currentPage": "Notre Histoire.html",
+    "currentPage": "en.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -53,7 +53,7 @@
     "imageResize": true,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-sans3.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sans0.svg",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
