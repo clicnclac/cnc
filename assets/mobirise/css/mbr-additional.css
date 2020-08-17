@@ -11159,25 +11159,29 @@ section.lazy-placeholder:after {
 .cid-s748V97Z6B .dropdown-item:hover {
   color: #eac435 !important;
 }
-.cid-s7PTN2AM0v {
+.cid-s7V3IEVCxE {
   background-image: url("../../../assets/images/learning-center-gif.gif");
 }
-.cid-s7PTN2AM0v .mbr-section-subtitle {
+.cid-s7V3IEVCxE h1 {
+  color: #616161;
+}
+.cid-s7V3IEVCxE h2,
+.cid-s7V3IEVCxE h3,
+.cid-s7V3IEVCxE p {
+  color: #767676;
+}
+.cid-s7V3IEVCxE .mbr-section-subtitle {
   font-style: italic;
-  letter-spacing: 1rem;
 }
-.cid-s7PTN2AM0v H3 {
-  color: #333333;
-  text-align: center;
-}
-.cid-s7PTN2AM0v .mbr-section-title {
-  color: #333333;
+.cid-s7V3IEVCxE H3 {
   text-align: left;
 }
-.cid-s7PTN2AM0v .mbr-text,
-.cid-s7PTN2AM0v .mbr-section-btn {
+.cid-s7V3IEVCxE .mbr-text,
+.cid-s7V3IEVCxE .mbr-section-btn {
+  color: #2a2b2a;
+}
+.cid-s7V3IEVCxE H1 {
   color: #333333;
-  text-align: left;
 }
 .cid-s7Q0JKRjhU {
   padding-top: 75px;
