@@ -98,7 +98,7 @@ body {
   background-color: #333333 !important;
 }
 .bg-info {
-  background-color: #eac435 !important;
+  background-color: #ffffff !important;
 }
 .bg-warning {
   background-color: #eac435 !important;
@@ -148,23 +148,23 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #eac435 !important;
-  border-color: #eac435 !important;
-  color: #ffffff !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #808080 !important;
 }
 .btn-info:hover,
 .btn-info:focus,
 .btn-info.focus,
 .btn-info.active {
-  color: #ffffff !important;
-  background-color: #bf9b14 !important;
-  border-color: #bf9b14 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
-  color: #ffffff !important;
-  background-color: #bf9b14 !important;
-  border-color: #bf9b14 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -312,22 +312,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #a88811;
-  color: #a88811;
+  border-color: #cccccc;
+  color: #cccccc;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
-  color: #ffffff;
-  background-color: #eac435;
-  border-color: #eac435;
+  color: #808080;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
-  color: #ffffff !important;
-  background-color: #eac435 !important;
-  border-color: #eac435 !important;
+  color: #808080 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -433,7 +433,7 @@ body {
   color: #333333 !important;
 }
 .text-info {
-  color: #eac435 !important;
+  color: #ffffff !important;
 }
 .text-warning {
   color: #eac435 !important;
@@ -461,7 +461,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #a88811 !important;
+  color: #cccccc !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -483,7 +483,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #eac435;
+  background-color: #ffffff;
 }
 .alert-warning {
   background-color: #eac435;
@@ -531,7 +531,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #fdfaee;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -9385,7 +9385,7 @@ section.lazy-placeholder:after {
 }
 .cid-s748V97Z6B .nav-link:hover,
 .cid-s748V97Z6B .dropdown-item:hover {
-  color: #eac435 !important;
+  color: #ffffff !important;
 }
 .cid-s6Z4AxJCNs {
   background-image: url("../../../assets/images/cnc-t-1748x1306.jpg");
@@ -11235,7 +11235,7 @@ section.lazy-placeholder:after {
   color: #333333;
 }
 .cid-s7Wiz3FZkt {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
