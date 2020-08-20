@@ -3827,6 +3827,108 @@ section.lazy-placeholder:after {
 .cid-s81xOzJPHN .card-img {
   color: #333333;
 }
+.cid-s8fndPQ0qA {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-s8fndPQ0qA img {
+  width: 100%;
+  transition: all 0.6s ease-in-out;
+  height: 260px;
+  object-fit: cover;
+}
+.cid-s8fndPQ0qA .link-wrapper {
+  margin-bottom: 1rem;
+}
+.cid-s8fndPQ0qA .link-wrapper .mbr-iconfont {
+  border: 1px solid #2a2b2a;
+  border-radius: 50%;
+  padding: 8px;
+  font-size: 0.8rem;
+  color: #2a2b2a;
+}
+.cid-s8fndPQ0qA .img-wrapper .mbr-iconfont {
+  font-size: 3rem;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-bottom: 1rem;
+  background: linear-gradient(to left, #eac345, #eac345);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cid-s8fndPQ0qA .card-wrapper {
+  background: #ffffff;
+  padding: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-s8fndPQ0qA .card-wrapper {
+    padding: 2rem 1rem;
+  }
+}
+.cid-s8fndPQ0qA .first:hover:before {
+  content: none;
+}
+.cid-s8fndPQ0qA .first:before {
+  position: absolute;
+  top: -1rem;
+  z-index: -1;
+  left: 0rem;
+  width: 300px;
+  height: 200px;
+  background: linear-gradient(to left, #eac345, #eac345);
+  content: '';
+}
+.cid-s8fndPQ0qA .last:hover:after {
+  content: none;
+}
+.cid-s8fndPQ0qA .last:after {
+  position: absolute;
+  bottom: -1rem;
+  right: 0rem;
+  width: 300px;
+  z-index: -1;
+  height: 200px;
+  background: linear-gradient(to left, #eac345, #eac345);
+  content: '';
+}
+.cid-s8fndPQ0qA .mbr-section-text {
+  color: #999999;
+}
+.cid-s8fndPQ0qA .card {
+  z-index: 1;
+  min-height: 200px;
+  margin-bottom: 2rem;
+  position: relative;
+  transition: all 0.3s;
+}
+.cid-s8fndPQ0qA .card .img-wrapper {
+  overflow: hidden;
+}
+.cid-s8fndPQ0qA .card:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+}
+.cid-s8fndPQ0qA .card:hover .mbr-iconfont {
+  color: #2a2b2a !important;
+  border-color: #2a2b2a;
+  -webkit-background-clip: transparent;
+  -webkit-text-fill-color: unset;
+}
+.cid-s8fndPQ0qA .card:hover .card-wrapper {
+  background: linear-gradient(to left, #eac345, #eac345);
+  color: #2a2b2a !important;
+}
+.cid-s8fndPQ0qA .card:hover .card-wrapper .mbr-section-text {
+  color: #2a2b2a !important;
+}
+.cid-s8fndPQ0qA .mbr-section-title {
+  color: #2a2b2a;
+}
 .cid-s8f9QGO7PP {
   padding-top: 75px;
   padding-bottom: 30px;
